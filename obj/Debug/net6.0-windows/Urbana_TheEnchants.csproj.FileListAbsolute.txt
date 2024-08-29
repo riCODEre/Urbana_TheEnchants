@@ -1,0 +1,54 @@
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.exe
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.deps.json
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.runtimeconfig.json
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.pdb
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.AssemblyReference.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.Form1.resources
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.Properties.Resources.resources
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.GenerateResource.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.AssemblyInfoInputs.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.AssemblyInfo.cs
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.CoreCompileInputs.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\refint\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.pdb
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.genruntimeconfig.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\Urbana_TheEnchants\obj\Debug\net6.0-windows\ref\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.exe
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.deps.json
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.runtimeconfig.json
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.pdb
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.AssemblyReference.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.Properties.Resources.resources
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.GenerateResource.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.AssemblyInfoInputs.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.AssemblyInfo.cs
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.CoreCompileInputs.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\refint\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.pdb
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.genruntimeconfig.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\ref\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.Urbana.resources
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.exe
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.deps.json
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.runtimeconfig.json
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\bin\Debug\net6.0-windows\Urbana_TheEnchants.pdb
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.AssemblyReference.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.Urbana.resources
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.Properties.Resources.resources
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.GenerateResource.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.AssemblyInfoInputs.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.AssemblyInfo.cs
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.csproj.CoreCompileInputs.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\refint\Urbana_TheEnchants.dll
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.pdb
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\Urbana_TheEnchants.genruntimeconfig.cache
+C:\Users\Ricodere\Desktop\Benilde\1 Courses\Term 1\ISPPRGG1\VSCode Projects\FOTIS2_DelosReyes_FinalMP\Urbana_TheEnchants\obj\Debug\net6.0-windows\ref\Urbana_TheEnchants.dll

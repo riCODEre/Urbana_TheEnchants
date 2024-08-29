@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Urbana_TheEnchants/1.0.0": {
+        "runtime": {
+          "Urbana_TheEnchants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Urbana_TheEnchants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
